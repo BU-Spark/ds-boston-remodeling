@@ -127,9 +127,10 @@ def load_database_mapping() -> dict:
   Returns:
   dict: A dictionary with database names as keys and their corresponding IDs as values.
   """
-  file_path = "ds-boston-remodeling/sp24-team-b/data/dataId.txt"
-  home_dir = os.path.expanduser('~')
-  file_path = home_dir + "/" + file_path
+  folder_name = 'data'
+  file_name = 'dataID.txt'
+  file_path = os.path.join(folder_name, file_name)
+
   database_mapping = {}
 
   try:
