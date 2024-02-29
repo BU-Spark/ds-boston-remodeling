@@ -1,0 +1,1001 @@
+ROOF_COVER,INT_WALL,EXT_FNISHED,INT_COND,EXT_COND,OVERALL_COND,BED_RMS,FULL_BTH,HLF_BTH,KITCHENS
+C - Composition,N - Normal,A - Asbestos,A - Average,F - Fair,A - Average,6.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,5.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,F - Fair,A - Average,6.0,3.0,0.0,2.0
+R - Rubber Roof,N - Normal,A - Asbestos,G - Good,A - Average,A - Average,13.0,6.0,0.0,3.0
+R - Rubber Roof,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,14.0,5.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,11.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,5.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,C - Cement Board,G - Good,G - Good,G - Good,6.0,3.0,0.0,3.0
+,,12 - Conc Block,,,G - Good,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,A - Asbestos,G - Good,A - Average,G - Good,5.0,3.0,0.0,2.0
+C - Composition,N - Normal,P - Asphalt,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,8.0,3.0,1.0,3.0
+S - Slate,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+,,09 - Wood Siding,,,A - Average,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,A - Asbestos,A - Average,F - Fair,A - Average,5.0,2.0,0.0,2.0
+C - Composition,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,3.0,3.0,0.0,3.0
+R - Rubber Roof,,F - Frame/Clapbrd,,G - Good,G - Good,,,,
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,G - Good,G - Good,A - Average,3.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,G - Good,G - Good,A - Average,3.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,G - Good,G - Good,A - Average,3.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,G - Good,G - Good,A - Average,2.0,2.0,0.0,1.0
+A - Asphalt Shingl,,M - Vinyl,,G - Good,G - Good,,,,
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,3.0,3.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,3.0,2.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,2.0,2.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,9.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,1.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,9.0,3.0,0.0,3.0
+R - Rubber Roof,,C - Cement Board,,E - Excellent,A - Average,,,,
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,C - Cement Board,G - Good,E - Excellent,A - Average,2.0,1.0,0.0,1.0
+,,09 - Wood Siding,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,C - Cement Board,G - Good,E - Excellent,A - Average,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,C - Cement Board,G - Good,E - Excellent,A - Average,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,3.0,0.0,3.0
+C - Composition,N - Normal,P - Asphalt,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,1.0,1.0,1.0
+,,01 - Brick,,,G - Good,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,8.0,3.0,0.0,2.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,9.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,9.0,4.0,0.0,4.0
+C - Composition,N - Normal,W - Wood Shake,A - Average,F - Fair,A - Average,8.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,3.0,0.0,2.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,1.0,1.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,3.0,3.0,0.0,4.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,4.0,3.0,0.0,3.0
+,,10 - Alum/Vinyl,,,G - Good,,0.0,0.0,0.0
+O - Other,N - Normal,U - Alum Siding,G - Good,A - Average,A - Average,3.0,3.0,0.0,3.0
+,,10 - Alum/Vinyl,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,,C - Cement Board,,E - Excellent,G - Good,,,,
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,E - Excellent,G - Good,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,E - Excellent,G - Good,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,E - Excellent,G - Good,3.0,2.0,0.0,1.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,E - Excellent,G - Good,3.0,2.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,2.0,0.0,2.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,3.0,0.0,3.0
+C - Composition,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,5.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,7.0,3.0,1.0,3.0
+R - Rubber Roof,,M - Vinyl,,G - Good,G - Good,,,,
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,G - Good,G - Good,6.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,3.0,2.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,9.0,3.0,0.0,3.0
+,,01 - Brick,,,G - Good,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,G - Good,A - Average,G - Good,6.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,3.0,0.0,3.0
+,,10 - Alum/Vinyl,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,A - Asbestos,G - Good,G - Good,G - Good,3.0,1.0,1.0,1.0
+R - Rubber Roof,N - Normal,U - Alum Siding,G - Good,A - Average,G - Good,4.0,3.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,3.0,0.0,3.0
+C - Composition,N - Normal,P - Asphalt,A - Average,F - Fair,A - Average,3.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,B - Brick/Stone,A - Average,G - Good,G - Good,9.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,B - Brick/Stone,G - Good,A - Average,A - Average,11.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,4.0,2.0,0.0,2.0
+C - Composition,N - Normal,W - Wood Shake,A - Average,F - Fair,A - Average,4.0,2.0,0.0,2.0
+,,10 - Alum/Vinyl,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,2.0,0.0,2.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,4.0,0.0,3.0
+C - Composition,N - Normal,P - Asphalt,A - Average,F - Fair,A - Average,6.0,3.0,0.0,3.0
+C - Composition,N - Normal,P - Asphalt,A - Average,A - Average,A - Average,10.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,C - Cement Board,A - Average,G - Good,G - Good,6.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,2.0,0.0,2.0
+,,09 - Wood Siding,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,6.0,3.0,0.0,3.0
+C - Composition,N - Normal,P - Asphalt,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,2.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,2.0,1.0,2.0
+C - Composition,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,9.0,3.0,0.0,2.0
+,,01 - Brick,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,9.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,3.0,2.0,1.0,2.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,11.0,4.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+,,09 - Wood Siding,,,G - Good,,0.0,0.0,0.0
+,,01 - Brick,,,G - Good,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,01 - Brick,,,A - Average,,0.0,0.0,0.0
+,,10 - Alum/Vinyl,,,A - Average,,0.0,0.0,0.0
+,,09 - Wood Siding,,,A - Average,,0.0,0.0,0.0
+,,01 - Brick,,,G - Good,,0.0,0.0,0.0
+,,01 - Brick,,,A - Average,,0.0,0.0,0.0
+,,01 - Brick,,,A - Average,,0.0,0.0,0.0
+,,01 - Brick,,,A - Average,,0.0,0.0,0.0
+,,09 - Wood Siding,,,G - Good,,0.0,0.0,0.0
+,,09 - Wood Siding,,,G - Good,,0.0,0.0,0.0
+,,09 - Wood Siding,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,9.0,3.0,0.0,3.0
+,,10 - Alum/Vinyl,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,3.0,0.0,2.0
+A - Asphalt Shingl,N - Normal,A - Asbestos,A - Average,G - Good,A - Average,3.0,3.0,0.0,3.0
+S - Slate,N - Normal,P - Asphalt,A - Average,F - Fair,A - Average,5.0,4.0,0.0,3.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,A - Average,A - Average,A - Average,8.0,3.0,1.0,4.0
+A - Asphalt Shingl,N - Normal,P - Asphalt,G - Good,A - Average,A - Average,5.0,3.0,1.0,2.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,8.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,8.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,8.0,3.0,0.0,3.0
+,,,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,8.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,8.0,3.0,0.0,3.0
+R - Rubber Roof,,M - Vinyl,,G - Good,G - Good,,,,
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,2.0,1.0,1.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,2.0,0.0,2.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,F - Fair,A - Average,6.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,2.0,0.0,2.0
+C - Composition,N - Normal,W - Wood Shake,A - Average,A - Average,A - Average,3.0,2.0,0.0,2.0
+,,,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,B - Brick/Stone,A - Average,G - Good,A - Average,4.0,2.0,1.0,2.0
+,,01 - Brick,,,G - Good,,0.0,0.0,0.0
+,,12 - Conc Block,,,A - Average,,0.0,0.0,0.0
+,,09 - Wood Siding,,,A - Average,,0.0,0.0,0.0
+,,09 - Wood Siding,,,G - Good,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,W - Wood Shake,A - Average,F - Fair,A - Average,6.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,A - Asbestos,G - Good,A - Average,G - Good,9.0,3.0,0.0,3.0
+,,,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,P - Asphalt,A - Average,F - Fair,A - Average,3.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,7.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,9.0,3.0,0.0,3.0
+C - Composition,N - Normal,P - Asphalt,A - Average,A - Average,A - Average,9.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,F - Frame/Clapbrd,A - Average,F - Fair,A - Average,9.0,4.0,0.0,3.0
+R - Rubber Roof,,C - Cement Board,,G - Good,A - Average,,,,
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,9.0,3.0,0.0,3.0
+,,,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,9.0,3.0,0.0,3.0
+C - Composition,N - Normal,A - Asbestos,A - Average,F - Fair,A - Average,9.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,G - Good,A - Average,G - Good,9.0,3.0,2.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+,,,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,W - Wood Shake,A - Average,F - Fair,A - Average,6.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,2.0,1.0,1.0,1.0
+,,12 - Conc Block,,,G - Good,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,A - Average,G - Good,3.0,2.0,0.0,2.0
+C - Composition,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,4.0,3.0,1.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,8.0,3.0,0.0,3.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,C - Cement Board,G - Good,G - Good,G - Good,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,C - Cement Board,G - Good,G - Good,G - Good,3.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,C - Cement Board,G - Good,G - Good,G - Good,3.0,1.0,0.0,1.0
+C - Composition,N - Normal,P - Asphalt,A - Average,A - Average,A - Average,8.0,3.0,0.0,3.0
+C - Composition,N - Normal,P - Asphalt,A - Average,A - Average,A - Average,9.0,3.0,0.0,3.0
+R - Rubber Roof,,M - Vinyl,,A - Average,,,,,
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,11.0,4.0,0.0,3.0
+R - Rubber Roof,,B - Brick/Stone,,A - Average,A - Average,,,,
+R - Rubber Roof,N - Normal,B - Brick/Stone,G - Good,A - Average,A - Average,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,B - Brick/Stone,G - Good,A - Average,A - Average,2.0,1.0,1.0,1.0
+R - Rubber Roof,N - Normal,B - Brick/Stone,G - Good,A - Average,A - Average,2.0,1.0,0.0,1.0
+,,09 - Wood Siding,,,A - Average,,0.0,0.0,0.0
+,,01 - Brick,,,G - Good,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,5.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,9.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,9.0,3.0,0.0,3.0
+,,10 - Alum/Vinyl,,,G - Good,,0.0,0.0,0.0
+,,C - Cement Board,,,G - Good,,,,
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,,0.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,,1.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,A - Average,,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,A - Average,,2.0,1.0,0.0,1.0
+W - Wood Shingle,,W - Wood Shake,,A - Average,,,,,
+W - Wood Shingle,N - Normal,W - Wood Shake,G - Good,A - Average,,0.0,1.0,0.0,1.0
+W - Wood Shingle,N - Normal,W - Wood Shake,G - Good,A - Average,,1.0,1.0,0.0,1.0
+W - Wood Shingle,N - Normal,W - Wood Shake,A - Average,A - Average,,2.0,1.0,0.0,1.0
+W - Wood Shingle,N - Normal,W - Wood Shake,G - Good,A - Average,,2.0,1.0,0.0,1.0
+C - Composition,,W - Wood Shake,,G - Good,A - Average,,,,
+C - Composition,N - Normal,W - Wood Shake,G - Good,G - Good,A - Average,1.0,1.0,0.0,1.0
+C - Composition,N - Normal,W - Wood Shake,A - Average,G - Good,A - Average,2.0,1.0,0.0,1.0
+,,,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,W - Wood Shake,A - Average,G - Good,A - Average,2.0,1.0,0.0,1.0
+C - Composition,N - Normal,W - Wood Shake,G - Good,G - Good,G - Good,6.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,9.0,4.0,0.0,4.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+C - Composition,,C - Cement Board,,G - Good,G - Good,,,,
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,5.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,F - Frame/Clapbrd,G - Good,A - Average,A - Average,3.0,2.0,1.0,2.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,1.0,0.0,1.0
+,,01 - Brick,,,A - Average,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+C - Composition,N - Normal,P - Asphalt,A - Average,A - Average,A - Average,9.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,7.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,11.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,3.0,1.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,W - Wood Shake,A - Average,A - Average,A - Average,4.0,1.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,10.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,G - Good,G - Good,9.0,3.0,0.0,3.0
+R - Rubber Roof,,M - Vinyl,,G - Good,G - Good,,,,
+R - Rubber Roof,N - Normal,M - Vinyl,E - Excellent,G - Good,G - Good,2.0,2.0,0.0,1.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,E - Excellent,G - Good,G - Good,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,E - Excellent,G - Good,G - Good,2.0,2.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,F - Fair,A - Average,5.0,3.0,0.0,3.0
+R - Rubber Roof,,M - Vinyl,,G - Good,A - Average,,,,
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,A - Average,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,A - Average,2.0,1.0,0.0,1.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,A - Average,2.0,1.0,0.0,1.0
+,,01 - Brick,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,6.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,3.0,1.0,0.0,1.0
+,,01 - Brick,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+R - Rubber Roof,,M - Vinyl,,G - Good,A - Average,,,,
+R - Rubber Roof,N - Normal,M - Vinyl,E - Excellent,G - Good,A - Average,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,E - Excellent,G - Good,A - Average,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,E - Excellent,G - Good,A - Average,2.0,1.0,0.0,1.0
+R - Rubber Roof,S - Substandard,P - Asphalt,P - Poor,F - Fair,P - Poor,8.0,4.0,0.0,4.0
+R - Rubber Roof,N - Normal,W - Wood Shake,A - Average,F - Fair,A - Average,6.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,8.0,3.0,0.0,3.0
+A - Asphalt Shingl,,F - Frame/Clapbrd,,G - Good,,,,,
+A - Asphalt Shingl,N - Normal,F - Frame/Clapbrd,A - Average,G - Good,,3.0,2.0,1.0,1.0
+A - Asphalt Shingl,N - Normal,F - Frame/Clapbrd,A - Average,G - Good,,3.0,2.0,1.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,A - Average,G - Good,3.0,1.0,1.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,2.0,0.0,1.0
+A - Asphalt Shingl,S - Substandard,M - Vinyl,P - Poor,P - Poor,P - Poor,3.0,2.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,C - Cement Board,G - Good,G - Good,G - Good,3.0,1.0,0.0,1.0
+,,10 - Alum/Vinyl,,,G - Good,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,C - Cement Board,G - Good,G - Good,G - Good,3.0,1.0,0.0,1.0
+,,,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,C - Cement Board,G - Good,G - Good,A - Average,2.0,2.0,0.0,1.0
+C - Composition,N - Normal,C - Cement Board,G - Good,G - Good,A - Average,2.0,2.0,0.0,1.0
+C - Composition,N - Normal,C - Cement Board,G - Good,G - Good,A - Average,2.0,1.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,8.0,2.0,0.0,2.0
+R - Rubber Roof,,M - Vinyl,,A - Average,A - Average,,,,
+R - Rubber Roof,N - Normal,M - Vinyl,E - Excellent,A - Average,A - Average,2.0,2.0,0.0,1.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,E - Excellent,A - Average,A - Average,1.0,1.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,4.0,2.0,0.0,2.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,2.0,1.0,0.0,1.0
+R - Rubber Roof,,F - Frame/Clapbrd,,G - Good,A - Average,,,,
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,G - Good,G - Good,A - Average,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,G - Good,G - Good,A - Average,2.0,1.0,0.0,1.0
+,,10 - Alum/Vinyl,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,G - Good,G - Good,A - Average,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,P - Asphalt,A - Average,A - Average,A - Average,8.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,P - Asphalt,A - Average,A - Average,A - Average,7.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,5.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,9.0,3.0,0.0,3.0
+,,10 - Alum/Vinyl,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,A - Asbestos,G - Good,A - Average,A - Average,9.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,3.0,0.0,3.0
+C - Composition,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+C - Composition,N - Normal,A - Asbestos,A - Average,F - Fair,A - Average,4.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,2.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,9.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,8.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,4.0,3.0,0.0,2.0
+A - Asphalt Shingl,N - Normal,F - Frame/Clapbrd,A - Average,A - Average,A - Average,4.0,3.0,0.0,2.0
+,,10 - Alum/Vinyl,,,G - Good,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,A - Average,G - Good,6.0,2.0,0.0,2.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,A - Average,G - Good,3.0,1.0,1.0,1.0
+A - Asphalt Shingl,,F - Frame/Clapbrd,,A - Average,A - Average,,,,
+A - Asphalt Shingl,N - Normal,F - Frame/Clapbrd,A - Average,A - Average,A - Average,3.0,2.0,,1.0
+A - Asphalt Shingl,N - Normal,F - Frame/Clapbrd,A - Average,A - Average,A - Average,3.0,1.0,1.0,1.0
+S - Slate,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,3.0,1.0,1.0,1.0
+S - Slate,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,3.0,1.0,1.0,1.0
+C - Composition,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,8.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,3.0,0.0,3.0
+C - Composition,N - Normal,U - Alum Siding,A - Average,A - Average,A - Average,4.0,2.0,0.0,1.0
+,,09 - Wood Siding,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,2.0,2.0,0.0,2.0
+C - Composition,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,2.0,2.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,2.0,1.0,0.0,1.0
+C - Composition,N - Normal,P - Asphalt,A - Average,A - Average,A - Average,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,W - Wood Shake,A - Average,A - Average,A - Average,3.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,1.0,1.0,1.0
+R - Rubber Roof,N - Normal,W - Wood Shake,A - Average,A - Average,A - Average,4.0,3.0,0.0,2.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,2.0,1.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,3.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,2.0,1.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,3.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,2.0,3.0,0.0,1.0
+R - Rubber Roof,N - Normal,W - Wood Shake,A - Average,A - Average,A - Average,3.0,1.0,1.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,1.0,1.0
+C - Composition,N - Normal,W - Wood Shake,G - Good,A - Average,A - Average,3.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,S - Stucco,A - Average,A - Average,A - Average,3.0,2.0,0.0,2.0
+C - Composition,N - Normal,M - Vinyl,F - Fair,A - Average,A - Average,6.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,8.0,3.0,0.0,3.0
+,,10 - Alum/Vinyl,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,C - Cement Board,A - Average,A - Average,A - Average,8.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,7.0,3.0,0.0,2.0
+C - Composition,N - Normal,P - Asphalt,A - Average,A - Average,A - Average,6.0,2.0,0.0,2.0
+C - Composition,N - Normal,P - Asphalt,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,1.0,1.0,1.0
+R - Rubber Roof,,M - Vinyl,,G - Good,A - Average,,,,
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,A - Average,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,A - Average,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,A - Average,2.0,1.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,2.0,1.0,1.0,1.0
+,,,,,A - Average,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,1.0,1.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,3.0,0.0,2.0
+C - Composition,N - Normal,W - Wood Shake,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,6.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,9.0,3.0,0.0,3.0
+R - Rubber Roof,,M - Vinyl,,G - Good,G - Good,,,,
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,A - Average,2.0,1.0,1.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,A - Average,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,A - Average,2.0,2.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,8.0,4.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,A - Average,G - Good,5.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,A - Average,G - Good,5.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,8.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,A - Average,G - Good,10.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,A - Average,3.0,1.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,8.0,4.0,0.0,3.0
+C - Composition,N - Normal,A - Asbestos,A - Average,F - Fair,A - Average,6.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,G - Good,A - Average,G - Good,8.0,3.0,0.0,3.0
+R - Rubber Roof,,M - Vinyl,,G - Good,A - Average,,,,
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,A - Average,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,A - Average,3.0,1.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,7.0,3.0,0.0,3.0
+,,,,,A - Average,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,W - Wood Shake,G - Good,F - Fair,A - Average,3.0,2.0,0.0,2.0
+,,01 - Brick,,,G - Good,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+,,,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,8.0,3.0,0.0,3.0
+,,10 - Alum/Vinyl,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,7.0,4.0,0.0,3.0
+C - Composition,,P - Asphalt,,A - Average,F - Fair,,,,
+C - Composition,N - Normal,P - Asphalt,G - Good,A - Average,F - Fair,2.0,1.0,0.0,1.0
+,,,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,P - Asphalt,G - Good,A - Average,F - Fair,2.0,1.0,0.0,1.0
+C - Composition,N - Normal,P - Asphalt,G - Good,A - Average,F - Fair,2.0,1.0,0.0,1.0
+,,09 - Wood Siding,,,A - Average,,0.0,0.0,0.0
+,,01 - Brick,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,8.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,2.0,1.0,0.0,1.0
+,,,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,2.0,0.0,2.0
+A - Asphalt Shingl,N - Normal,W - Wood Shake,A - Average,F - Fair,A - Average,2.0,1.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,5.0,2.0,0.0,2.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,10 - Alum/Vinyl,,,A - Average,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,W - Wood Shake,A - Average,F - Fair,A - Average,2.0,1.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,9.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,B - Brick/Stone,A - Average,A - Average,A - Average,8.0,5.0,0.0,3.0
+R - Rubber Roof,N - Normal,B - Brick/Stone,A - Average,A - Average,A - Average,12.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+,,10 - Alum/Vinyl,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,9.0,3.0,0.0,3.0
+C - Composition,N - Normal,B - Brick/Stone,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+,,01 - Brick,,,G - Good,,0.0,0.0,0.0
+,,01 - Brick,,,A - Average,,0.0,0.0,0.0
+,,01 - Brick,,,A - Average,,0.0,0.0,0.0
+,,01 - Brick,,,A - Average,,0.0,0.0,0.0
+,,01 - Brick,,,G - Good,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+,,,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,7.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,10 - Alum/Vinyl,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+,,12 - Conc Block,,,A - Average,,0.0,0.0,0.0
+,,09 - Wood Siding,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,9.0,3.0,0.0,3.0
+,,10 - Alum/Vinyl,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,12 - Conc Block,,,A - Average,,0.0,0.0,0.0
+,,09 - Wood Siding,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,W - Wood Shake,G - Good,A - Average,A - Average,6.0,3.0,0.0,3.0
+,,12 - Conc Block,,,G - Good,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,1.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,F - Fair,A - Average,A - Average,3.0,1.0,0.0,1.0
+,,12 - Conc Block,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,3.0,0.0,3.0
+R - Rubber Roof,,C - Cement Board,,E - Excellent,A - Average,,,,
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,E - Excellent,A - Average,2.0,2.0,0.0,1.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,E - Excellent,A - Average,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,E - Excellent,A - Average,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,E - Excellent,A - Average,2.0,2.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,2.0,1.0,2.0
+,,09 - Wood Siding,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,3.0,1.0,2.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,2.0,1.0,1.0,1.0
+,,01 - Brick,,,G - Good,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,1.0,2.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,1.0,1.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,2.0,2.0,0.0,1.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,W - Wood Shake,G - Good,A - Average,G - Good,4.0,2.0,0.0,2.0
+R - Rubber Roof,,M - Vinyl,,G - Good,A - Average,,,,
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,A - Average,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,A - Average,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,A - Average,2.0,2.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,4.0,3.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,9.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,W - Wood Shake,G - Good,F - Fair,A - Average,3.0,1.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,1.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,1.0,0.0,1.0
+R - Rubber Roof,,C - Cement Board,,G - Good,G - Good,,,,
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,G - Good,G - Good,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,G - Good,G - Good,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,G - Good,G - Good,2.0,1.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,A - Asbestos,A - Average,F - Fair,A - Average,1.0,1.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,1.0,0.0,1.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,F - Frame/Clapbrd,A - Average,F - Fair,F - Fair,5.0,3.0,0.0,3.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,01 - Brick,,,VG - Very Good,,0.0,0.0,0.0
+,,01 - Brick,,,A - Average,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,3.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,6.0,2.0,0.0,2.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,06 - Metal/Glass,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,09 - Wood Siding,,,G - Good,,0.0,0.0,0.0
+,,12 - Conc Block,,,G - Good,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,01 - Brick,,,US - Unsound,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,A - Average,F - Fair,A - Average,3.0,1.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,8.0,4.0,0.0,3.0
+C - Composition,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,7.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,6.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,8.0,4.0,0.0,2.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,11.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,6.0,3.0,0.0,3.0
+C - Composition,,M - Vinyl,,G - Good,G - Good,,,,
+A - Asphalt Shingl,N - Normal,W - Wood Shake,A - Average,A - Average,A - Average,6.0,4.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,5.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,A - Average,G - Good,5.0,3.0,0.0,3.0
+C - Composition,N - Normal,W - Wood Shake,A - Average,A - Average,A - Average,5.0,4.0,1.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,3.0,1.0,3.0
+,,10 - Alum/Vinyl,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,3.0,2.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,3.0,1.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,3.0,1.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,6.0,4.0,0.0,2.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,1.0,1.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,F - Fair,F - Fair,3.0,2.0,0.0,2.0
+,,01 - Brick,,,A - Average,,0.0,0.0,0.0
+,,01 - Brick,,,G - Good,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,01 - Brick,,,A - Average,,0.0,0.0,0.0
+,,10 - Alum/Vinyl,,,A - Average,,0.0,0.0,0.0
+,,12 - Conc Block,,,G - Good,,0.0,0.0,0.0
+,,12 - Conc Block,,,G - Good,,0.0,0.0,0.0
+,,01 - Brick,,,G - Good,,0.0,0.0,0.0
+,,10 - Alum/Vinyl,,,G - Good,,0.0,0.0,0.0
+,,09 - Wood Siding,,,G - Good,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,P - Asphalt,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+,,01 - Brick,,,A - Average,,0.0,0.0,0.0
+,,10 - Alum/Vinyl,,,A - Average,,0.0,0.0,0.0
+,,10 - Alum/Vinyl,,,G - Good,,0.0,0.0,0.0
+,,10 - Alum/Vinyl,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,01 - Brick,,,G - Good,,0.0,0.0,0.0
+,,10 - Alum/Vinyl,,,F - Fair,,0.0,0.0,0.0
+,,12 - Conc Block,,,G - Good,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,4.0,2.0,0.0,2.0
+,,10 - Alum/Vinyl,,,F - Fair,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+O - Other,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,10 - Alum/Vinyl,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,C - Cement Board,G - Good,G - Good,G - Good,4.0,2.0,2.0,2.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,C - Cement Board,G - Good,G - Good,G - Good,4.0,2.0,0.0,2.0
+,,,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,6.0,2.0,0.0,2.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,1.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,1.0,1.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,A - Average,G - Good,4.0,3.0,1.0,2.0
+,,,,,A - Average,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,2.0,0.0,2.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,1.0,0.0,1.0
+,,01 - Brick,,,A - Average,,0.0,0.0,0.0
+,,01 - Brick,,,G - Good,,0.0,0.0,0.0
+,,06 - Metal/Glass,,,EX - Excellent,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,,V - Brck/Stn Venr,,G - Good,G - Good,,,,
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,V - Brck/Stn Venr,E - Excellent,G - Good,G - Good,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,V - Brck/Stn Venr,E - Excellent,G - Good,G - Good,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,V - Brck/Stn Venr,E - Excellent,G - Good,G - Good,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,V - Brck/Stn Venr,E - Excellent,G - Good,G - Good,3.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,V - Brck/Stn Venr,E - Excellent,G - Good,G - Good,2.0,2.0,0.0,1.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,V - Brck/Stn Venr,E - Excellent,G - Good,G - Good,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,V - Brck/Stn Venr,E - Excellent,G - Good,G - Good,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,V - Brck/Stn Venr,E - Excellent,G - Good,G - Good,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,V - Brck/Stn Venr,E - Excellent,G - Good,G - Good,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,V - Brck/Stn Venr,E - Excellent,G - Good,G - Good,2.0,2.0,0.0,1.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,V - Brck/Stn Venr,E - Excellent,G - Good,G - Good,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,V - Brck/Stn Venr,E - Excellent,G - Good,G - Good,1.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,V - Brck/Stn Venr,E - Excellent,G - Good,G - Good,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,V - Brck/Stn Venr,E - Excellent,G - Good,G - Good,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,V - Brck/Stn Venr,E - Excellent,G - Good,G - Good,2.0,2.0,0.0,1.0
+,,01 - Brick,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,V - Brck/Stn Venr,E - Excellent,G - Good,G - Good,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,V - Brck/Stn Venr,E - Excellent,G - Good,G - Good,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,V - Brck/Stn Venr,E - Excellent,G - Good,G - Good,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,V - Brck/Stn Venr,E - Excellent,G - Good,G - Good,1.0,1.0,0.0,1.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,01 - Brick,,,G - Good,,0.0,0.0,0.0
+A - Asphalt Shingl,,W - Wood Shake,,G - Good,G - Good,,,,
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,3.0,0.0,3.0
+,,10 - Alum/Vinyl,,,G - Good,,0.0,0.0,0.0
+,,01 - Brick,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,,C - Cement Board,,E - Excellent,G - Good,,,,
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,E - Excellent,G - Good,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,E - Excellent,G - Good,2.0,2.0,0.0,1.0
+,,12 - Conc Block,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,E - Excellent,G - Good,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,E - Excellent,G - Good,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,E - Excellent,G - Good,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,E - Excellent,G - Good,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,E - Excellent,G - Good,2.0,2.0,0.0,1.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,E - Excellent,G - Good,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,E - Excellent,G - Good,2.0,2.0,0.0,1.0
+,,,,,,,,,
+,,10 - Alum/Vinyl,,,G - Good,,0.0,0.0,0.0
+R - Rubber Roof,,F - Frame/Clapbrd,,G - Good,A - Average,,,,
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,A - Average,G - Good,A - Average,2.0,1.0,0.0,1.0
+,,12 - Conc Block,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,A - Average,G - Good,A - Average,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,G - Good,G - Good,A - Average,3.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,G - Good,G - Good,A - Average,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,G - Good,G - Good,A - Average,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,A - Average,G - Good,A - Average,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,G - Good,G - Good,A - Average,3.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,A - Average,G - Good,A - Average,3.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,A - Average,G - Good,A - Average,3.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,A - Average,G - Good,A - Average,3.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,G - Good,G - Good,A - Average,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,G - Good,G - Good,A - Average,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,G - Good,G - Good,A - Average,3.0,2.0,1.0,1.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,G - Good,G - Good,A - Average,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,G - Good,G - Good,A - Average,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,G - Good,G - Good,A - Average,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,G - Good,G - Good,A - Average,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,G - Good,G - Good,A - Average,3.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,G - Good,G - Good,A - Average,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,E - Excellent,G - Good,A - Average,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,A - Average,G - Good,A - Average,2.0,2.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+C - Composition,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,4.0,2.0,0.0,2.0
+C - Composition,N - Normal,P - Asphalt,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,2.0,0.0,2.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,5.0,2.0,0.0,2.0
+R - Rubber Roof,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,5.0,3.0,0.0,3.0
+C - Composition,N - Normal,P - Asphalt,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,S - Stucco,A - Average,A - Average,A - Average,8.0,3.0,0.0,3.0
+C - Composition,,M - Vinyl,,A - Average,A - Average,,,,
+R - Rubber Roof,N - Normal,S - Stucco,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,2.0,3.0,0.0,3.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,03 - Poured Concr,,,A - Average,,0.0,0.0,0.0
+,,12 - Conc Block,,,A - Average,,0.0,0.0,0.0
+,,01 - Brick,,,G - Good,,0.0,0.0,0.0
+,,04 - Precast Concr,,,VG - Very Good,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,8.0,3.0,1.0,3.0
+,,10 - Alum/Vinyl,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+A - Asphalt Shingl,,M - Vinyl,,A - Average,G - Good,,,,
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,A - Average,G - Good,2.0,2.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,A - Average,G - Good,2.0,2.0,0.0,1.0
+,,12 - Conc Block,,,G - Good,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,2.0,3.0,0.0,2.0
+A - Asphalt Shingl,N - Normal,P - Asphalt,A - Average,F - Fair,A - Average,2.0,1.0,0.0,1.0
+,,01 - Brick,,,F - Fair,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,4.0,2.0,0.0,2.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,4.0,2.0,0.0,2.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,2.0,1.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,A - Asbestos,A - Average,F - Fair,A - Average,3.0,1.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,1.0,0.0,1.0
+A - Asphalt Shingl,,C - Cement Board,,G - Good,A - Average,,,,
+A - Asphalt Shingl,N - Normal,C - Cement Board,G - Good,G - Good,A - Average,3.0,2.0,1.0,1.0
+A - Asphalt Shingl,N - Normal,C - Cement Board,G - Good,G - Good,A - Average,3.0,2.0,0.0,1.0
+,,,,,A - Average,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,3.0,1.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,2.0,1.0,0.0,1.0
+R - Rubber Roof,,C - Cement Board,,E - Excellent,G - Good,,,,
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,E - Excellent,G - Good,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,E - Excellent,G - Good,3.0,3.0,0.0,1.0
+R - Rubber Roof,N - Normal,U - Alum Siding,A - Average,A - Average,A - Average,5.0,2.0,0.0,2.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+A - Asphalt Shingl,,M - Vinyl,,A - Average,G - Good,,,,
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,A - Average,G - Good,3.0,1.0,0.0,1.0
+,,01 - Brick,,,A - Average,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,A - Average,G - Good,2.0,1.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,A - Average,G - Good,2.0,1.0,0.0,3.0
+R - Rubber Roof,,C - Cement Board,,E - Excellent,G - Good,,,,
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,E - Excellent,G - Good,1.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,E - Excellent,G - Good,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,E - Excellent,G - Good,1.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,E - Excellent,G - Good,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,C - Cement Board,E - Excellent,E - Excellent,G - Good,3.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,A - Average,3.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,U - Alum Siding,A - Average,A - Average,A - Average,3.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,4.0,2.0,0.0,2.0
+C - Composition,N - Normal,B - Brick/Stone,G - Good,A - Average,A - Average,5.0,2.0,0.0,2.0
+C - Composition,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,5.0,2.0,0.0,2.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,6.0,3.0,2.0,2.0
+O - Other,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,U - Alum Siding,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,4.0,2.0,0.0,2.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,7.0,3.0,0.0,2.0
+C - Composition,N - Normal,M - Vinyl,G - Good,A - Average,G - Good,2.0,1.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,G - Good,A - Average,G - Good,2.0,1.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,G - Good,A - Average,G - Good,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,C - Cement Board,G - Good,G - Good,G - Good,2.0,2.0,0.0,2.0
+C - Composition,N - Normal,P - Asphalt,A - Average,A - Average,A - Average,3.0,2.0,0.0,2.0
+C - Composition,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,1.0,1.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,2.0,0.0,2.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,2.0,0.0,2.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,12 - Conc Block,,,A - Average,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,1.0,0.0,1.0
+,,12 - Conc Block,,,A - Average,,0.0,0.0,0.0
+A - Asphalt Shingl,,F - Frame/Clapbrd,,A - Average,A - Average,,,,
+A - Asphalt Shingl,N - Normal,F - Frame/Clapbrd,A - Average,A - Average,A - Average,3.0,1.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,F - Frame/Clapbrd,A - Average,A - Average,A - Average,3.0,1.0,1.0,1.0
+,,,,,,,,,
+,,10 - Alum/Vinyl,,,A - Average,,0.0,0.0,0.0
+A - Asphalt Shingl,,M - Vinyl,,G - Good,,,,,
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,G - Good,,2.0,2.0,1.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,G - Good,,2.0,3.0,1.0,1.0
+A - Asphalt Shingl,N - Normal,F - Frame/Clapbrd,A - Average,A - Average,A - Average,6.0,2.0,2.0,2.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,F - Fair,G - Good,2.0,3.0,0.0,1.0
+,,01 - Brick,,,G - Good,,0.0,0.0,0.0
+C - Composition,N - Normal,W - Wood Shake,A - Average,F - Fair,A - Average,3.0,1.0,1.0,1.0
+,,,,,A - Average,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,3.0,1.0,1.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,6.0,2.0,0.0,2.0
+,,02 - Stone,,,A - Average,,0.0,0.0,0.0
+,,12 - Conc Block,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,12 - Conc Block,,,G - Good,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,8.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,W - Wood Shake,A - Average,F - Fair,A - Average,6.0,3.0,0.0,3.0
+R - Rubber Roof,,V - Brck/Stn Venr,,A - Average,G - Good,,,,
+R - Rubber Roof,N - Normal,V - Brck/Stn Venr,G - Good,A - Average,G - Good,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,V - Brck/Stn Venr,G - Good,A - Average,A - Average,2.0,1.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,9.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+C - Composition,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,5.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,8.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,2.0,0.0,2.0
+R - Rubber Roof,,M - Vinyl,,E - Excellent,G - Good,,,,
+A - Asphalt Shingl,N - Normal,W - Wood Shake,F - Fair,F - Fair,F - Fair,4.0,2.0,0.0,2.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,2.0,1.0,3.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,1.0,2.0
+R - Rubber Roof,N - Normal,C - Cement Board,G - Good,G - Good,A - Average,2.0,1.0,1.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,8.0,3.0,0.0,3.0
+,,01 - Brick,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,W - Wood Shake,A - Average,A - Average,A - Average,3.0,1.0,1.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,8.0,3.0,1.0,3.0
+R - Rubber Roof,N - Normal,W - Wood Shake,A - Average,A - Average,A - Average,3.0,2.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,2.0,2.0,0.0,2.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,4.0,2.0,0.0,2.0
+C - Composition,N - Normal,W - Wood Shake,A - Average,A - Average,A - Average,5.0,2.0,0.0,2.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,2.0,0.0,2.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,A - Average,G - Good,9.0,3.0,0.0,3.0
+R - Rubber Roof,,M - Vinyl,,G - Good,A - Average,,,,
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,A - Average,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,A - Average,3.0,2.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,4.0,2.0,1.0,2.0
+R - Rubber Roof,,C - Cement Board,,G - Good,A - Average,,,,
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,C - Cement Board,G - Good,G - Good,A - Average,2.0,1.0,1.0,1.0
+R - Rubber Roof,N - Normal,C - Cement Board,G - Good,G - Good,A - Average,2.0,1.0,1.0,1.0
+R - Rubber Roof,N - Normal,C - Cement Board,G - Good,G - Good,A - Average,1.0,1.0,1.0,1.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,E - Excellent,A - Average,2.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,E - Excellent,A - Average,2.0,1.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,9.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,2.0,1.0,1.0
+,,A - Asbestos,,,A - Average,,,0.0,
+C - Composition,N - Normal,M - Vinyl,G - Good,A - Average,G - Good,8.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,8.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,8.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,5.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,U - Alum Siding,A - Average,A - Average,A - Average,3.0,2.0,0.0,2.0
+C - Composition,N - Normal,P - Asphalt,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,8.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,2.0,2.0,0.0,2.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,9.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,3.0,1.0,1.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,2.0,1.0,1.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,2.0,3.0,0.0,2.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+R - Rubber Roof,N - Normal,C - Cement Board,G - Good,G - Good,G - Good,9.0,6.0,0.0,3.0
+R - Rubber Roof,,F - Frame/Clapbrd,,E - Excellent,G - Good,,,,
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,E - Excellent,E - Excellent,G - Good,3.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,E - Excellent,E - Excellent,G - Good,3.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,F - Frame/Clapbrd,E - Excellent,E - Excellent,G - Good,3.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,2.0,0.0,2.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,8.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+C - Composition,N - Normal,P - Asphalt,A - Average,A - Average,A - Average,5.0,2.0,0.0,2.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,2.0,0.0,2.0
+R - Rubber Roof,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,5.0,2.0,0.0,2.0
+C - Composition,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,4.0,2.0,0.0,2.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,2.0,0.0,2.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,2.0,1.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,2.0,0.0,2.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+C - Composition,N - Normal,F - Frame/Clapbrd,G - Good,A - Average,G - Good,4.0,2.0,0.0,2.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,2.0,0.0,2.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,09 - Wood Siding,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,11.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,F - Frame/Clapbrd,G - Good,G - Good,G - Good,2.0,1.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,1.0,1.0
+C - Composition,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,7.0,3.0,0.0,3.0
+,,,,,A - Average,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,W - Wood Shake,A - Average,A - Average,A - Average,3.0,2.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,9.0,4.0,1.0,4.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,6.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,F - Frame/Clapbrd,G - Good,A - Average,G - Good,3.0,4.0,0.0,2.0
+,,,,,A - Average,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,F - Frame/Clapbrd,A - Average,A - Average,A - Average,3.0,2.0,1.0,1.0
+C - Composition,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,9.0,3.0,1.0,3.0
+C - Composition,N - Normal,W - Wood Shake,G - Good,G - Good,G - Good,8.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+R - Rubber Roof,,C - Cement Board,,G - Good,A - Average,,,,
+C - Composition,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,5.0,2.0,0.0,2.0
+C - Composition,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,5.0,2.0,0.0,2.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,3.0,2.0,0.0,2.0
+,,,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,8.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,W - Wood Shake,A - Average,G - Good,A - Average,6.0,3.0,0.0,3.0
+,,,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,3.0,0.0,2.0
+C - Composition,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,6.0,2.0,0.0,2.0
+,,,,,A - Average,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,1.0,1.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,3.0,3.0,0.0,2.0
+A - Asphalt Shingl,N - Normal,A - Asbestos,A - Average,F - Fair,A - Average,3.0,1.0,0.0,1.0
+,,01 - Brick,,,A - Average,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,1.0,1.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,G - Good,A - Average,2.0,1.0,1.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,4.0,2.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,2.0,1.0,1.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,4.0,2.0,0.0,2.0
+C - Composition,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,2.0,1.0,1.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,E - Excellent,A - Average,A - Average,3.0,2.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,E - Excellent,A - Average,A - Average,2.0,2.0,0.0,1.0
+,,09 - Wood Siding,,,G - Good,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,E - Excellent,A - Average,A - Average,3.0,2.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,E - Excellent,A - Average,E - Excellent,2.0,2.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,E - Excellent,A - Average,A - Average,2.0,2.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,2.0,1.0,1.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,4.0,1.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,C - Cement Board,G - Good,G - Good,G - Good,4.0,4.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,8.0,4.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,2.0,1.0,0.0,1.0
+C - Composition,,M - Vinyl,,G - Good,G - Good,,,,
+,,,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,2.0,1.0,1.0,1.0
+C - Composition,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,2.0,1.0,1.0,1.0
+C - Composition,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,2.0,2.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,3.0,0.0,2.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,2.0,1.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+A - Asphalt Shingl,,C - Cement Board,,G - Good,A - Average,,,,
+A - Asphalt Shingl,N - Normal,A - Asbestos,G - Good,A - Average,A - Average,3.0,1.0,1.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,2.0,2.0,0.0,2.0
+A - Asphalt Shingl,N - Normal,W - Wood Shake,A - Average,A - Average,A - Average,3.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,G - Good,G - Good,2.0,1.0,1.0,1.0
+,,,,,A - Average,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,U - Alum Siding,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+,,,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,3.0,2.0,0.0,2.0
+,,08 - Stucco,,,A - Average,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+,,09 - Wood Siding,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,C - Cement Board,G - Good,G - Good,G - Good,4.0,2.0,0.0,2.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,1.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,2.0,0.0,2.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,4.0,2.0,1.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,2.0,0.0,2.0
+C - Composition,N - Normal,B - Brick/Stone,A - Average,A - Average,A - Average,2.0,1.0,1.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,2.0,1.0,1.0,1.0
+A - Asphalt Shingl,N - Normal,F - Frame/Clapbrd,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,7.0,3.0,0.0,3.0
+,,10 - Alum/Vinyl,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,A - Average,G - Good,G - Good,9.0,3.0,0.0,3.0
+,,09 - Wood Siding,,,G - Good,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,11.0,3.0,0.0,3.0
+C - Composition,N - Normal,10 - Alum/Vinyl,,A - Average,A - Average,,,0.0,
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+,,,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,2.0,2.0,0.0,2.0
+,,,,,A - Average,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,A - Average,G - Good,3.0,1.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,2.0,0.0,2.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,2.0,1.0,1.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,2.0,1.0,2.0
+,,01 - Brick,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,3.0,3.0,0.0,3.0
+,,,,,A - Average,,0.0,0.0,0.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,1.0,1.0,1.0
+A - Asphalt Shingl,N - Normal,U - Alum Siding,A - Average,F - Fair,A - Average,7.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,G - Good,A - Average,G - Good,2.0,2.0,0.0,1.0
+,,10 - Alum/Vinyl,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,G - Good,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,4.0,2.0,1.0,2.0
+C - Composition,N - Normal,P - Asphalt,A - Average,A - Average,A - Average,6.0,2.0,0.0,2.0
+C - Composition,N - Normal,W - Wood Shake,A - Average,P - Poor,F - Fair,4.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,W - Wood Shake,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+C - Composition,N - Normal,F - Frame/Clapbrd,G - Good,G - Good,A - Average,2.0,1.0,0.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,4.0,2.0,0.0,2.0
+C - Composition,N - Normal,P - Asphalt,A - Average,F - Fair,A - Average,4.0,2.0,0.0,2.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,2.0,0.0,2.0
+R - Rubber Roof,N - Normal,W - Wood Shake,A - Average,A - Average,A - Average,3.0,2.0,0.0,2.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,4.0,2.0,0.0,2.0
+C - Composition,N - Normal,F - Frame/Clapbrd,G - Good,G - Good,A - Average,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,A - Average,G - Good,3.0,1.0,1.0,1.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,2.0,0.0,2.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,6.0,3.0,0.0,3.0
+,,01 - Brick,,,F - Fair,,0.0,0.0,0.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+C - Composition,N - Normal,F - Frame/Clapbrd,G - Good,G - Good,A - Average,2.0,1.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,U - Alum Siding,A - Average,A - Average,A - Average,1.0,1.0,1.0,1.0
+,,,,,A - Average,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+,,,,,,,,,
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,3.0,0.0,3.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,9.0,3.0,0.0,3.0
+C - Composition,N - Normal,F - Frame/Clapbrd,G - Good,A - Average,A - Average,3.0,3.0,0.0,1.0
+R - Rubber Roof,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,2.0,0.0,2.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,A - Average,G - Good,5.0,2.0,1.0,2.0
+R - Rubber Roof,N - Normal,A - Asbestos,A - Average,A - Average,A - Average,7.0,3.0,0.0,3.0
+,,01 - Brick,,,G - Good,,0.0,0.0,0.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,A - Average,G - Good,5.0,2.0,1.0,2.0
+A - Asphalt Shingl,N - Normal,W - Wood Shake,A - Average,F - Fair,A - Average,4.0,2.0,1.0,1.0
+C - Composition,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,6.0,2.0,0.0,2.0
+R - Rubber Roof,N - Normal,M - Vinyl,G - Good,A - Average,A - Average,4.0,2.0,0.0,2.0
+R - Rubber Roof,N - Normal,W - Wood Shake,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,W - Wood Shake,A - Average,A - Average,A - Average,3.0,1.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,3.0,0.0,1.0
+R - Rubber Roof,N - Normal,P - Asphalt,A - Average,A - Average,A - Average,6.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,5.0,3.0,0.0,3.0
+A - Asphalt Shingl,N - Normal,C - Cement Board,A - Average,G - Good,G - Good,5.0,2.0,0.0,2.0
+A - Asphalt Shingl,N - Normal,C - Cement Board,G - Good,G - Good,A - Average,2.0,1.0,0.0,1.0
+A - Asphalt Shingl,N - Normal,C - Cement Board,A - Average,G - Good,A - Average,2.0,1.0,0.0,1.0
+A - Asphalt Shingl,,C - Cement Board,,E - Excellent,A - Average,,,,
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,A - Average,A - Average,3.0,2.0,0.0,2.0
+A - Asphalt Shingl,N - Normal,M - Vinyl,A - Average,G - Good,A - Average,2.0,1.0,0.0,1.0
