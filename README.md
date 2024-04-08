@@ -1,11 +1,11 @@
-# CS-506-TEMPLATE-base-repo
+# CS-506-teamB-repo
+report locations:
+[Scrum Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-midterm/sp24-team-b/Scrum%20Report%20.pdf)
 
-If your project has multiple teams add changes (code, deliverables, data, etc.) to your team folder.
+[Early-Insight-Report.ipynb](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-midterm/sp24-team-b/Early-Insight-Report.ipynb)
 
-Create a new branch from your team branch (ex. branch name: <code>team-a</code>, <code>team-b</code>,...etc.), add changes to your team folder (on the new branch you just created).
+[Early Insights Presentation.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-midterm/sp24-team-b/Early%20Insights%20Presentation.pdf)
 
-Open a Pull Request to your team branch (ex. branch name: <code>team-a</code>). Add your TA and TPM as reviewers.  ***Do not delete any team folders.***
+[Midterm Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-midterm/sp24-team-b/Midterm%20Report.pdf)
 
-At the end of the semester during project wrap up open a final Pull Request to <code>dev</code> from your team branch. 
-
-Full instructions on how to make a PR to a Spark! Repo [here](https://docs.google.com/document/d/1t8vDdMyV3RHuXNxIL4DDs7gXV1c89G1T6Xi69UGilS0/edit?usp=sharing)
+[Mid Semester Presentation.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-midterm/sp24-team-b/Mid%20Semester%20Presentation.pdf)
