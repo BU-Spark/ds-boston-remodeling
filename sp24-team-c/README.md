@@ -1,7 +1,7 @@
 # Project Name: City of Boston: Remodeling and Unit Loss Team C
 
 ## Overview
-This repository contains the work of our team as we progressed through different stages of our project. The aim of this project was the analyze Boston housing data over a period of around 24 years to see if the City of Boston was losing units due to remodelling. On top of that we took a look at which areas were most affected by renovations, which areas recieved the most spending and various other things related to the topic.
+This repository contains the work of our team as we progressed through different stages of our project. The aim of this project was the analyze Boston housing data over a period of around 20 years to see if the City of Boston was losing units due to remodelling. On top of that we took a look at which areas were most affected by renovations, which areas recieved the most spending and various other things related to the topic.
 
 ## Repository Structure
 
