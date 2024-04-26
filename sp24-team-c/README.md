@@ -28,6 +28,26 @@ Holds the processed data which tracks properties that have experienced an increa
 
 - **Data Access:** A link to these datasets is provided in the `data/` documentation.
 
+### `/Cleaned Bedroom Merged Data/`
+Holds the processed data which tracks properties that have experienced an increase, decrease, or no change in the number of bedrooms, but merged with the SAM dataset so that we have access to lat and long values for each property.
+
+**Data Access:** A link to these datasets is provided in the `data/` documentation.
+
+### `/Cleaned Res Units Data/`
+Holds the processed data which tracks properties that have experienced an increase, decrease, or no change in the number of res units.
+
+**Data Access:** A link to these datasets is provided in the `data/` documentation.
+
+### `/Cleaned Zip Coding Data/`
+Holds the processed data which tracks changes in property values by zipcodes.
+
+**Data Access:** A link to these datasets is provided in the `data/` documentation.
+
+### `/Demographic Data/`
+Holds the general boston census data, and then some modified files for race, household and age.
+
+**Data Access:** A link to these datasets is provided in the `data/` documentation.
+
 ### `/Presentations/`
 All presentations associated with early insights, mid-semester, and final insights are located here.
 
@@ -39,8 +59,8 @@ Information about the project team members and their roles.
 ### Raw Data
 Refer to the document in the `data/` folder for detailed links and instructions related to the raw data.
 
-### Cleaned Bedroom Data
-To understand the transformations applied to obtain the cleaned bedroom data, review the documentation within the `Cleaned Bedroom Data/` folder. 
+### Cleaned ___ Data
+To understand the transformations applied to obtain the cleaned ___ data, review the documentation within the `Data/` folder and look at the notebooks associated with its creation. 
 
 ## Notebooks
 Each notebook within the `Early Insights Notebooks/`, `Mid Semester Notebooks/`, and `Final Insights Notebooks/` folders is annotated with the author's name and contains a specific part of the overall analysis.
