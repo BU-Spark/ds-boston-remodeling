@@ -44,25 +44,5 @@ The data analysis folder contains the following files:
 ## Recordings Locations
 [Mid Semester Recording](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Recordings/Mid%20Semester%20Recording.txt)
 
-[Final Recording](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Recordings/Finalr%20Recording.txt)
-
-## Report Locations
-[Scrum Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-Zihan/sp24-team-b/Reports/Scrum%20Report.pdf)
-
-[Early Insights Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-Zihan/sp24-team-b/Reports/Early%20Insights%20Report.pdf)
-
-[Midterm Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-Zihan/sp24-team-b/Reports/Midterm%20Report.pdf)
-
-[Final Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-Zihan/sp24-team-b/Reports/Final%20Report.pdf)
-
-## Slides Locations
-[Early Insights Presentation.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-Zihan/sp24-team-b/Slides/Early%20Insights%20Presentation.pdf)
-
-[Mid Semester Presentation.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-Zihan/sp24-team-b/Slides/Mid%20Semester%20Presentation.pdf)
-
-[Final Presentation.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-Zihan/sp24-team-b/Slides/Final%20Presentation.pdf)
-## Recordings Locations
-[Mid Semester Recording](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-Zihan/sp24-team-b/Recordings/Mid%20Semester%20Recording.txt)
-
-[Final Recording](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-Zihan/sp24-team-b/Recordings/Finalr%20Recording.txt)
+[Final Recording](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Recordings/Final%20Recording.txt)
 
