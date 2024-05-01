@@ -1,0 +1,3 @@
+Property Assessment Data: https://data.boston.gov/dataset/property-assessment
+
+Approved Building Permits Data: https://data.boston.gov/dataset/approved-building-permits
