@@ -49,5 +49,5 @@ We directly use the raw data from the following links in API.
 ## Recordings Locations
 [Mid Semester Recording](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Recordings/Mid%20Semester%20Recording.txt)
 
-[Final Recording](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Recordings/Final%20Recording.txt)
+
 
