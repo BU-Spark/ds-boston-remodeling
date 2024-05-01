@@ -1,48 +1,11 @@
-# CS-506-teamB-repo
-## Team B - City of Boston: Remodeling and Unit Loss
-## Team Members
-Yuchen Cao, caoyc@bu.edu, Class of 2024
+# CS-506-TEMPLATE-base-repo
 
-Jialong Ke, jlke@bu.edu, Class of 2024
+If your project has multiple teams add changes (code, deliverables, data, etc.) to your team folder.
 
-Zihan Li, lizihan@bu.edu, Class of 2024 Spring
+Create a new branch from your team branch (ex. branch name: <code>team-a</code>, <code>team-b</code>,...etc.), add changes to your team folder (on the new branch you just created).
 
-Jingbo Wang, jw6347@bu.edu, Class of 2024 Spring - Team Rep 
+Open a Pull Request to your team branch (ex. branch name: <code>team-a</code>). Add your TA and TPM as reviewers.  ***Do not delete any team folders.***
 
-## How to Run Our Code
-directly run every ipynb file in the folder "data analysis" to get the result.
-The data analysis folder contains the following files:
-- approvedBuildingsAnalysis.ipynb
-- buildingPermitAnalysis.ipynb
-- Early-Insight-Report.ipynb
-- liveStreetAddressManagementAddresses.ipynb
-- livingAreaAnalysis.ipynb
-- propertyAssessmentDataFetch.ipynb
+At the end of the semester during project wrap up open a final Pull Request to <code>dev</code> from your team branch. 
 
-## Data Usage Detail
-- Building permits : https://data.boston.gov/dataset/approved-building-permits
-- Property assessments : https://data.boston.gov/dataset/property-assessment
-- Addresses (Sam database) : https://data.boston.gov/dataset/live-street-address-management-sam-addresses
-
-
-
-## Report Locations
-[Scrum Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Reports/Scrum%20Report.pdf)
-
-[Early Insights Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Reports/Early%20Insights%20Report.pdf)
-
-[Midterm Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Reports/Midterm%20Report.pdf)
-
-[Final Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Reports/Final%20Report.pdf)
-
-## Slides Locations
-[Early Insights Presentation.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Slides/Early%20Insights%20Presentation.pdf)
-
-[Mid Semester Presentation.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Slides/Mid%20Semester%20Presentation.pdf)
-
-[Final Presentation.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Slides/Final%20Presentation.pdf)
-## Recordings Locations
-[Mid Semester Recording](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Recordings/Mid%20Semester%20Recording.txt)
-
-[Final Recording](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Recordings/Final%20Recording.txt)
-
+Full instructions on how to make a PR to a Spark! Repo [here](https://docs.google.com/document/d/1t8vDdMyV3RHuXNxIL4DDs7gXV1c89G1T6Xi69UGilS0/edit?usp=sharing)
