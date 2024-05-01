@@ -29,7 +29,7 @@ The data analysis folder contains the following files:
 ## Report Locations
 [Scrum Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Reports/Scrum%20Report.pdf)
 
-[Early Insight Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Reports/Early%20Insight%20Report.pdf)
+[Early Insights Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Reports/Early%20Insights%20Report.pdf)
 
 [Midterm Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Reports/Midterm%20Report.pdf)
 
@@ -49,7 +49,7 @@ The data analysis folder contains the following files:
 ## Report Locations
 [Scrum Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-Zihan/sp24-team-b/Reports/Scrum%20Report.pdf)
 
-[Early Insight Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-Zihan/sp24-team-b/Reports/Early%20Insight%20Report.pdf)
+[Early Insights Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-Zihan/sp24-team-b/Reports/Early%20Insights%20Report.pdf)
 
 [Midterm Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-Zihan/sp24-team-b/Reports/Midterm%20Report.pdf)
 
