@@ -19,12 +19,17 @@ The data analysis folder contains the following files:
 - livingAreaAnalysis.ipynb
 - propertyAssessmentDataFetch.ipynb
 
-## Data Usage Detail
+## Raw Data Usage Detail
+We directly use the raw data from the following links in API.
 - Building permits : https://data.boston.gov/dataset/approved-building-permits
 - Property assessments : https://data.boston.gov/dataset/property-assessment
 - Addresses (Sam database) : https://data.boston.gov/dataset/live-street-address-management-sam-addresses
 
+## Data Analysis Scripts 
+[Data Analysis Scripts Folder](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/data%20analysis)
 
+## Cleaned Data 
+[Cleaned Data Folder](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/data)
 
 ## Report Locations
 [Scrum Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Reports/Scrum%20Report.pdf)
