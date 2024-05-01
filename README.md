@@ -27,20 +27,42 @@ The data analysis folder contains the following files:
 
 
 ## Report Locations
-[Scrum Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Reports/Scrum%20Report%20.pdf)
+[Scrum Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Reports/Scrum%20Report.pdf)
 
-[Early-Insight-Report.ipynb](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Reports/Early-Insight-Report.ipynb)
+[Early Insight Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Reports/Early%20Insight%20Report.pdf)
 
 [Midterm Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Reports/Midterm%20Report.pdf)
 
-[Final Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/Reports/sp24-team-b/Final%20Report.pdf)
+[Final Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Reports/Final%20Report.pdf)
 
 ## Slides Locations
 [Early Insights Presentation.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Slides/Early%20Insights%20Presentation.pdf)
 
-[Mid Semester Presentation.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/Slides/sp24-team-b/Mid%20Semester%20Presentation.pdf)
+[Mid Semester Presentation.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Slides/Mid%20Semester%20Presentation.pdf)
 
-[Final Presentation.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/Slides/sp24-team-b/Final%20Presentation.pdf)
+[Final Presentation.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Slides/Final%20Presentation.pdf)
 ## Recordings Locations
+[Mid Semester Recording](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Recordings/Mid%20Semester%20Recording.txt)
 
+[Final Recording](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b/sp24-team-b/Recordings/Finalr%20Recording.txt)
+
+## Report Locations
+[Scrum Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-Zihan/sp24-team-b/Reports/Scrum%20Report.pdf)
+
+[Early Insight Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-Zihan/sp24-team-b/Reports/Early%20Insight%20Report.pdf)
+
+[Midterm Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-Zihan/sp24-team-b/Reports/Midterm%20Report.pdf)
+
+[Final Report.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-Zihan/sp24-team-b/Reports/Final%20Report.pdf)
+
+## Slides Locations
+[Early Insights Presentation.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-Zihan/sp24-team-b/Slides/Early%20Insights%20Presentation.pdf)
+
+[Mid Semester Presentation.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-Zihan/sp24-team-b/Slides/Mid%20Semester%20Presentation.pdf)
+
+[Final Presentation.pdf](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-Zihan/sp24-team-b/Slides/Final%20Presentation.pdf)
+## Recordings Locations
+[Mid Semester Recording](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-Zihan/sp24-team-b/Recordings/Mid%20Semester%20Recording.txt)
+
+[Final Recording](https://github.com/BU-Spark/ds-boston-remodeling/blob/team-b-Zihan/sp24-team-b/Recordings/Finalr%20Recording.txt)
 
